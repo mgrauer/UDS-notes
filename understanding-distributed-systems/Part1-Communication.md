@@ -1,4 +1,4 @@
-# Communication
+# Part 1 Communication
 
 Networking stack composed of multiple layers, each building on the next.
 
@@ -8,14 +8,14 @@ Networking stack composed of multiple layers, each building on the next.
 * TCP provides reliable channels on top of IP
 * Application layer - e.g. HTTPS/DNS - communicates in the semantics of an application
 
-# Chapter 2 Reliable Links
+## Chapter 2 Reliable Links
 
 We need a way to address nodes and route packets.
 
 * IP provides addressing
 * BGP (Border Gateway Protocal) maintains routing tables
 
-## TCP (Transport Layer Protocal)
+### TCP (Transport Layer Protocal)
 
 Builds a reliable and stable channel with a bytestream abstraction on top of an unreliable channel that can only send discrete packets. TCP provides for retransmission, in order delivery, and error correction.
 
@@ -29,6 +29,7 @@ Builds a reliable and stable channel with a bytestream abstraction on top of an 
   * bandwidth of a connection = window size / round trip time (RTT); size of congestion window is the max bytes that can be sent without receiver acknowledgement
   * shorter the round trip time (and the closer the connection) the higher the bandwidth
   * bandwidth is a function of latency
-* UDP (User Datagram Protocol) is stateless (connectionless), sends discrete packets
+
+### UDP (User Datagram Protocol) is stateless (connectionless), sends discrete packets
   * no reliability or flow or congestion control, no sequencing
   * used to bootstrap custom protocols or for e.g. game updates or video frames, where retranmission isn't useful
