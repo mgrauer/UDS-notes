@@ -20,11 +20,12 @@ m: Just like with all capital, compounding is key.
 
 # Chapter 2 - Weak Ties
 
-Strong ties are your group who you spend much time with, and are very similar to, and speak a common language with that is highly efficient.
+Strong ties are your group who you spend much time with, and are very similar to, and speak a common language with that is highly efficient (restricted speech).
 
 But most opportunities come from weak ties, because these link you into corners you cannot see around. Say yes to weak ties opportuntiies.
 m: weak ties are higher entropy, and can move you farther from current state. Opportunities from weak ties are more likely to be outside your comfort zone, and hence more likely to lead to growth.
 
 Strong ties are cliques, and can limit your thinking because of the sameness and self-reinforcement, it can seem that the whole world thinks this way when it is very different. Weak ties force elaborated communication, because you are communicating across larger differences, which require more context, greater organization, and thus more reflection.
 
+Weak ties often want to help, as long as the ask isn't overly burdensome.
 
