@@ -1,3 +1,5 @@
+The Defining Decade, Why your twenties matter-and how to make the most of them now, by Meg Jay. 201p.
+
 # Chapter 1 - Identity Capital
 
 Identity captial is your individual resources, degrees, skills that you use to purchase jobs, relationships, opportunities. It includes how you speak, where you come from, your networks, and how you present yourself. e.g. being socially adept, quick wit, a good communicator, empathetic.
